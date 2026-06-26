@@ -1,0 +1,496 @@
+[
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "present",
+      "history",
+      "abdominal",
+      "complaint:",
+      "chronic"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "recent",
+      "myoclonic",
+      "juvenile",
+      "epilepsy",
+      "diagnoses:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "gallops",
+      "abdomen:",
+      "masses",
+      "without"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "obtained",
+      "patient",
+      "procedure",
+      "tolerated",
+      "inflations"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "patient",
+      "around",
+      "issues",
+      "ongoing",
+      "subjective:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "eradicated",
+      "absolutely",
+      "greatly",
+      "completely",
+      "improved"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "history",
+      "patient",
+      "present",
+      "74-year-old",
+      "illness:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "acuity",
+      "visual",
+      "decreasing",
+      "presented",
+      "locally"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "postoperative",
+      "preoperative",
+      "empyema",
+      "diagnosis:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "procedure:",
+      "esophagogastroduodenoscopy",
+      "reason",
+      "biopsy"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "history",
+      "diagnosed",
+      "reason",
+      "cancer",
+      "consultation:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "symptomatic",
+      "effusion",
+      "pericardial",
+      "preoperative",
+      "diagnosis:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "membrane",
+      "secondary",
+      "capsular",
+      "preoperative",
+      "diagnosis:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "anterior",
+      "thickness",
+      "incision",
+      "uterine",
+      "partial"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "reflexes",
+      "absent",
+      "groups",
+      "extremities"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "disposable",
+      "paraspinal",
+      "muscles",
+      "concentric",
+      "needle"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "preprocedure",
+      "postprocedure",
+      "complete",
+      "diagnosis:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "driving",
+      "narcotic",
+      "lifting",
+      "continue",
+      "medicines"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "vicryl",
+      "closed",
+      "layers",
+      "second",
+      "imbricating"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "frontal",
+      "operation:",
+      "reservoir",
+      "ommaya",
+      "side-inlet"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "complains",
+      "backache",
+      "patient",
+      "stomachache",
+      "subjective:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "broad-",
+      "pigmented",
+      "broad-based",
+      "endocervical",
+      "diagnosis:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "factors",
+      "high-risk",
+      "cancer",
+      "angiolymphatic"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "atrial",
+      "reason",
+      "fibrillation",
+      "management",
+      "consultation:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "radicular",
+      "notice",
+      "behind",
+      "occasionally",
+      "tightness"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "dietary",
+      "38-year-old",
+      "subjective:",
+      "consultation",
+      "female"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "patient",
+      "history:",
+      "diagnosis",
+      "admitted",
+      "54-year-old"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "membrane",
+      "diagnoses:",
+      "preoperative",
+      "epiretinal",
+      "postoperative"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "fixation",
+      "stryker",
+      "intramedullary",
+      "operation:",
+      "fracture"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "tongue",
+      "strength",
+      "muscle",
+      "reactive",
+      "facial"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "torsion",
+      "testicular",
+      "preoperative",
+      "postoperative",
+      "diagnosis:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "failure",
+      "otitis",
+      "media/treatment",
+      "chronic",
+      "peptic"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "recovery",
+      "patient",
+      "pending",
+      "portable",
+      "stable"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "referred",
+      "referral:",
+      "patient",
+      "hospitalist",
+      "reason"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "aspects",
+      "dissection",
+      "undermined",
+      "lateral",
+      "medial"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "complaints",
+      "treatments",
+      "overall",
+      "improved",
+      "massage"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "return",
+      "reason",
+      "visit:",
+      "followup",
+      "discomfort"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "diagnoses",
+      "abscess/cellulitis",
+      "buccal",
+      "nonrestorable",
+      "preoperative"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "facial",
+      "complex",
+      "preoperative",
+      "supraorbital",
+      "diagnosis:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "patient",
+      "appeared",
+      "however",
+      "responding",
+      "levofloxacin"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "oblique",
+      "external",
+      "incision",
+      "approximated",
+      "electrocautery"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "dissection",
+      "junction",
+      "alternating",
+      "ultimately",
+      "ureteropelvic"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "platysma",
+      "hemostasis",
+      "assured",
+      "reapproximated",
+      "placing"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "history",
+      "reactive",
+      "23-month-old",
+      "identification:",
+      "complaint"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "bilateral",
+      "testes",
+      "undescended",
+      "preoperative",
+      "diagnosis:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "axilla",
+      "diagnoses",
+      "prosthetic",
+      "preoperative",
+      "abdomen"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "lobectomy",
+      "proceed",
+      "middle",
+      "continue",
+      "resection"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "pregnancy",
+      "nonreassuring",
+      "preoperative",
+      "testing",
+      "diagnosis:"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "pedicle",
+      "divided",
+      "clamps",
+      "tunneling",
+      "ligament"
+    ]
+  },
+  {
+    "question": "What information is mentioned in this clinical note?",
+    "relevant_keywords": [
+      "problem",
+      "degree",
+      "without",
+      "marked",
+      "sciatic"
+    ]
+  }
+]

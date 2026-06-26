@@ -1,0 +1,24 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# Chroma vector database
+data/vectorstore/
+
+# Raw datasets
+data/raw/
+
+# Generated evaluation outputs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

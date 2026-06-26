@@ -1,0 +1,4 @@
+pandas
+nltk
+sentence-transformers
+chromadb
