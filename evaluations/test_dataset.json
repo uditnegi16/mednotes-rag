@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What symptoms are mentioned for diabetes?",
+    "expected_keywords": ["thirst", "urination", "fatigue", "glucose"]
+  },
+  {
+    "question": "What are common signs of diabetes mellitus?",
+    "expected_keywords": ["polyuria", "polydipsia", "hunger", "weight"]
+  },
+  {
+    "question": "What complications are associated with diabetes?",
+    "expected_keywords": ["neuropathy", "infection", "vascular"]
+  },
+  {
+    "question": "What symptoms are associated with heart attack?",
+    "expected_keywords": ["chest", "pain", "breath", "cardiac"]
+  },
+  {
+    "question": "How does myocardial infarction present?",
+    "expected_keywords": ["chest", "pain", "shortness", "pressure"]
+  },
+  {
+    "question": "What findings are seen in cardiac patients?",
+    "expected_keywords": ["heart", "rhythm", "cardiac", "pressure"]
+  },
+  {
+    "question": "What symptoms are mentioned for trauma?",
+    "expected_keywords": ["pain", "injury", "swelling", "bleeding"]
+  },
+  {
+    "question": "What orthopedic symptoms are described?",
+    "expected_keywords": ["pain", "back", "joint", "movement"]
+  },
+  {
+    "question": "What symptoms appear in neurological cases?",
+    "expected_keywords": ["numbness", "weakness", "neuropathy"]
+  },
+  {
+    "question": "What respiratory symptoms are present?",
+    "expected_keywords": ["breath", "cough", "respiratory"]
+  },
+  {
+    "question": "What symptoms are mentioned for infection?",
+    "expected_keywords": ["fever", "infection", "inflammation"]
+  },
+  {
+    "question": "What gastrointestinal symptoms are described?",
+    "expected_keywords": ["diarrhea", "vomiting", "nausea", "abdominal"]
+  },
+  {
+    "question": "What symptoms are associated with diarrhea?",
+    "expected_keywords": ["loose", "stool", "abdominal", "pain"]
+  },
+  {
+    "question": "What information is available about hypertension?",
+    "expected_keywords": ["blood", "pressure", "hypertension"]
+  },
+  {
+    "question": "What findings are related to kidney disease?",
+    "expected_keywords": ["kidney", "renal", "function"]
+  },
+  {
+    "question": "What medications are mentioned in clinical notes?",
+    "expected_keywords": ["medication", "dose", "treatment"]
+  },
+  {
+    "question": "What treatments are described?",
+    "expected_keywords": ["treatment", "therapy", "management"]
+  },
+  {
+    "question": "What laboratory findings are mentioned?",
+    "expected_keywords": ["lab", "test", "result"]
+  },
+  {
+    "question": "What diagnosis information is present?",
+    "expected_keywords": ["diagnosis", "condition", "patient"]
+  },
+  {
+    "question": "What patient history details are available?",
+    "expected_keywords": ["history", "patient", "condition"]
+  },
+  {
+    "question": "What symptoms are related to neurological disorders?",
+    "expected_keywords": ["neurology", "weakness", "sensation"]
+  },
+  {
+    "question": "What symptoms appear in orthopedic notes?",
+    "expected_keywords": ["orthopedic", "pain", "spine"]
+  },
+  {
+    "question": "What cardiovascular conditions are described?",
+    "expected_keywords": ["cardiology", "heart", "cardiac"]
+  },
+  {
+    "question": "What symptoms are reported with chest problems?",
+    "expected_keywords": ["chest", "pain", "breathing"]
+  },
+  {
+    "question": "What symptoms are reported with abdominal problems?",
+    "expected_keywords": ["abdominal", "pain", "nausea"]
+  },
+  {
+    "question": "What clinical findings are documented?",
+    "expected_keywords": ["finding", "clinical", "patient"]
+  },
+  {
+    "question": "What diseases are mentioned in notes?",
+    "expected_keywords": ["disease", "condition", "diagnosis"]
+  },
+  {
+    "question": "What symptoms are associated with fatigue?",
+    "expected_keywords": ["fatigue", "weakness", "tired"]
+  },
+  {
+    "question": "What symptoms involve nerves?",
+    "expected_keywords": ["nerve", "numbness", "tingling"]
+  },
+  {
+    "question": "What information is found in clinical documentation?",
+    "expected_keywords": ["clinical", "note", "patient"]
+  },
+  {
+    "question": "What evidence supports the answer?",
+    "expected_keywords": ["source", "clinical", "evidence"]
+  },
+  {
+    "question": "What conditions appear in internal medicine notes?",
+    "expected_keywords": ["internal", "medicine", "patient"]
+  },
+  {
+    "question": "What symptoms appear across multiple specialties?",
+    "expected_keywords": ["symptoms", "patient", "clinical"]
+  },
+  {
+    "question": "What problems are discussed in medical records?",
+    "expected_keywords": ["problem", "record", "patient"]
+  },
+  {
+    "question": "What clinical information can be retrieved?",
+    "expected_keywords": ["retrieved", "clinical", "information"]
+  }
+]

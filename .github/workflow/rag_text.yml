@@ -1,0 +1,37 @@
+name: RAG Evaluation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+
+  evaluate:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+
+      - name: Run RAG evaluation
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: |
+          python evaluations/evaluate_rag.py

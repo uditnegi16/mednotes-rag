@@ -1,4 +1,9 @@
 pandas
+numpy
 nltk
 sentence-transformers
 chromadb
+crewai
+litellm
+python-dotenv
+huggingface_hub
